@@ -1,0 +1,5 @@
+1.For the code to run you will need a camera of some sort attached to your pc.
+
+2.Open folder 'HonoursProject' as a project in IDE, make sure all libraries are installed
+
+3. When run is pressed, code will begin detection phase.
